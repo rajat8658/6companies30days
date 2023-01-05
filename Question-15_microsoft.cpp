@@ -1,3 +1,5 @@
+// Leetcode Problem-1358  ***Number of substring containing all three characters***
+
 class Solution {
 public:
     int numberOfSubstrings(string s) {
